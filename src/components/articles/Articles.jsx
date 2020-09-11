@@ -1,11 +1,8 @@
-import React from 'react'
+import React from 'react';
+import Article from '../articles/Article';
 
 const Articles = () => {
-    return (
-        <div>
-            
-        </div>
-    )
-}
+	return <Article />;
+};
 
-export default Articles
+export default Articles;
